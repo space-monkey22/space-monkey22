@@ -9,7 +9,7 @@
 </br>
 
 <p align="center">
- <a href="https://linkedin.com/in/gayathri-j-353626254/" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
  </a>
  <a href="https://www.instagram.com/tea_innum_varala__?igsh=MTYyY3FmM205ZjFpMA==" target="_blank">
