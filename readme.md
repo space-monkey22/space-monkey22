@@ -21,7 +21,7 @@
 
 # i am ...
 <p>
- <img align="right" width="350" src="" alt="hello gif" />
+ <img align="right" width="350" src="assests/baby-yoda-hi.gif" alt="hello gif" />
   
  ❤️ &emsp; exploring fullstack projects  <br/><br/> 
  ✌️&emsp; working on my data structures and algorithms<br/><br/>
