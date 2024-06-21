@@ -10,7 +10,7 @@
 
 <p align="center">
  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
+  <img href="www.linkedin.com/in/imgaya3" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
  </a>
  <a href="https://www.instagram.com/tea_innum_varala__?igsh=MTYyY3FmM205ZjFpMA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
