@@ -19,14 +19,9 @@
   <img src= "https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgaya7hr1&logo=leetcode&logoColor=yellow"/>
 </a>
 
-# i am ...
 <p>
  <img align="right" width="350" src="assests/baby-yoda-hi.gif" alt="hello gif" />
   
- ❤️ &emsp; exploring fullstack projects  <br/><br/> 
- ✌️&emsp; working on my data structures and algorithms<br/><br/>
- 📧 &emsp; welcoming connections on linkedin<br/><br/>
- 💬 &emsp; happy to strike a convo on fictional books :)
 
 </p>
 <br/>
