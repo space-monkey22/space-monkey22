@@ -1,51 +1,83 @@
 <h3 align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=EA84F7&multiline=true&random=false&width=435&lines=Hello+world+!+I'm+Gayathri+%3C3" 
-  alt="Typing SVG" /></a>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="" />
+  </a>
 </h3>
-</br>
-</br>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=space-monkey22&label=Profile+Views&color=ff69b4&style=flat-square" alt="Visitor Count"/>
+</p>
 
 <p align="center">
- <a href="" target="_blank">
-  <img href="www.linkedin.com/in/imgaya3" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
- </a>
- <a href="https://www.instagram.com/tea_innum_varala__?igsh=MTYyY3FmM205ZjFpMA==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
- </a> 
-<a href="https://leetcode.com/u/gaya7hr1/" >
-  <img src= "https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgaya7hr1&logo=leetcode&logoColor=yellow"/>
-</a>
-
-<p>
- <img align="right" width="350" src="assests/baby-yoda-hi.gif" alt="hello gif" />
+  <a href="https://www.linkedin.com/in/imgaya3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   
+  <a href="https://www.instagram.com/tea_innum_varala__?igsh=MTYyY3FmM205ZjFpMA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/gaya7hr1/" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgaya7hr1&logo=leetcode&logoColor=yellow" alt="Leetcode"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+  <!-- Web Dev & Frameworks -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+
+  <!-- Backend / Tools -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+  <!-- Automation & Data -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-3e803d?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
 
 </p>
-<br/>
-<br/>
-<br/>
- 
-    
+
+
   
 
+---
 
-## tech stack
+## 📊 GitHub Stats
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=space-monkey22&show_icons=true&theme=radical" width="47%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=space-monkey22&theme=radical" width="47%" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-monkey22&layout=compact&theme=radical" width="40%" alt="Top Languages"/>
+</p>
+
+
+<p align="center">
+  <img src="" width="300" alt="Kiki Card"/>
+</p>
+
+
+---
+
+## 💌 Aesthetic Outro
+
+<p align="center">
+  <img src="" width="280" alt="Ghibli Closing"/>
+</p>
+
+<p align="center"><em>“We each need to find our own inspiration. Sometimes, it’s not easy.” – Kiki's delivery service </em></p>
