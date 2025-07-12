@@ -1,8 +1,6 @@
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="" />
-  </a>
-</h3>
+<p align="center">
+  <img src="https://github.com/space-monkey22/readme-assests/blob/main/name.png" width="600"/>
+</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=space-monkey22&label=Profile+Views&color=ff69b4&style=flat-square" alt="Visitor Count"/>
@@ -68,7 +66,7 @@
 
 
 <p align="center">
-  <img src="" width="300" alt="Kiki Card"/>
+  <img src="https://github.com/space-monkey22/readme-assests/blob/main/kiki%20card.png" width="300" alt="Kiki Card"/>
 </p>
 
 
@@ -77,7 +75,7 @@
 ## 💌 Aesthetic Outro
 
 <p align="center">
-  <img src="" width="280" alt="Ghibli Closing"/>
+  <img src="https://github.com/space-monkey22/readme-assests/blob/main/whisper%20of%20the%20heart.gif" width="280" alt="Ghibli Closing"/>
 </p>
 
 <p align="center"><em>“We each need to find our own inspiration. Sometimes, it’s not easy.” – Kiki's delivery service </em></p>
