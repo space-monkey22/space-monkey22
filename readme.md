@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/space-monkey22/readme-assests/blob/main/name.png" width="600"/>
-</p>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=space-monkey22&label=Profile+Views&color=ff69b4&style=flat-square" alt="Visitor Count"/>
