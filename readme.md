@@ -15,47 +15,10 @@
 </p>
 
 
-## 🚀 Tech Stack
 
-<p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
-  <!-- Web Dev & Frameworks -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
  
 
-  <!-- Backend / Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-  <!-- Automation & Data -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-3e803d?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
-
-</p>
-
-
   
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=space-monkey22&show_icons=true&theme=radical" width="47%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=space-monkey22&theme=radical" width="47%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-monkey22&layout=compact&theme=radical" width="40%" alt="Top Languages"/>
-</p>
-
 
 
 
